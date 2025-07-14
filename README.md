@@ -48,3 +48,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 [MIT](LICENSE) (or specify your license here) 
+
+## Contact
+For questions or support, contact: davidwanyama17@gmail.com 
